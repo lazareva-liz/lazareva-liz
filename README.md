@@ -16,7 +16,8 @@
 ![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
 ![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6FF?style=for-the-badge&logo=apachesuperset&logoColor=white)
 
-**(Ознакомиться с моими пет-проектами)[https://github.com/lazareva-liz/pet-projects]**
+
+**[Ознакомиться с моими пет-проектами](https://github.com/lazareva-liz/pet-projects)**
 
 Открыта к предложениям о стажировке или проектной деятельности. 
 
